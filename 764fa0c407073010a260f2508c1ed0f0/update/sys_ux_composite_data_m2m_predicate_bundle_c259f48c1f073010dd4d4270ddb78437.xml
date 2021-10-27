@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">8659f48c3f073010a7bda4f3675ba235</dataset>
+        <order/>
+        <predicate_bundle display_value="My Tasks - Task bundle">0659f48ce20730105c681819fed7cf37</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-10-02 06:50:52</sys_created_on>
+        <sys_id>c259f48c1f073010dd4d4270ddb78437</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IT Consultant Group" source="x_672038_it_cons_0">764fa0c407073010a260f2508c1ed0f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Consultant Group">764fa0c407073010a260f2508c1ed0f0</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_c259f48c1f073010dd4d4270ddb78437</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-02 06:50:52</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

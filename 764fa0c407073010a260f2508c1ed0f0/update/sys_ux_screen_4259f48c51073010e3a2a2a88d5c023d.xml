@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="IT Consultant Group Config">c259f48c07073010a260f2508c1ed006</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Additional details">c659f48cdf073010eefd6b0b41d9f93a</macroponent>
+        <macroponent_config>{
+  "sysId" : "@context.props.sysId",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Additional details Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(request)">8e59f48c35073010d2e0c0fb911d9e2f</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Additional details">ca59f48cc0073010f8218405d091e430</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-10-02 06:50:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4259f48c51073010e3a2a2a88d5c023d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Additional details Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IT Consultant Group" source="x_672038_it_cons_0">764fa0c407073010a260f2508c1ed0f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Consultant Group">764fa0c407073010a260f2508c1ed0f0</sys_scope>
+        <sys_update_name>sys_ux_screen_4259f48c51073010e3a2a2a88d5c023d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-02 06:50:54</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=4259f48c51073010e3a2a2a88d5c023d"/>
+</record_update>

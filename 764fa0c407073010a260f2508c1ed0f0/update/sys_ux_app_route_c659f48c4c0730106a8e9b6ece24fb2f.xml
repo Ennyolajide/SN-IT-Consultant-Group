@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="IT Consultant Group Config">c259f48c07073010a260f2508c1ed006</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Attachments</name>
+        <optional_parameters/>
+        <order>300</order>
+        <parent_macroponent display_value="Record Page(task)">0a59f48c4a073010459dfd67d3ce832f</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_task_attachment</route_type>
+        <screen_type display_value="Attachments">8659f48cde0730105115e5b6e8bff22f</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-10-02 06:50:55</sys_created_on>
+        <sys_id>c659f48c4c0730106a8e9b6ece24fb2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachments</sys_name>
+        <sys_package display_value="IT Consultant Group" source="x_672038_it_cons_0">764fa0c407073010a260f2508c1ed0f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Consultant Group">764fa0c407073010a260f2508c1ed0f0</sys_scope>
+        <sys_update_name>sys_ux_app_route_c659f48c4c0730106a8e9b6ece24fb2f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-02 06:50:55</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=c659f48c4c0730106a8e9b6ece24fb2f"/>
+</record_update>

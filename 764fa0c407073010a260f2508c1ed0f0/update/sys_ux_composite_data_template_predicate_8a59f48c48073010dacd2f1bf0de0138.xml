@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="task">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,short_description,number,opened_by</field_list>
+        <name>My Requests (task) predicate</name>
+        <order/>
+        <predicate_bundle display_value="My Requests (task) bundle">ca59f48cbf0730103fb3f8ea78bf0538</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-10-02 06:50:55</sys_created_on>
+        <sys_id>8a59f48c48073010dacd2f1bf0de0138</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Requests (task) predicate</sys_name>
+        <sys_package display_value="IT Consultant Group" source="x_672038_it_cons_0">764fa0c407073010a260f2508c1ed0f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Consultant Group">764fa0c407073010a260f2508c1ed0f0</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_8a59f48c48073010dacd2f1bf0de0138</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-02 06:50:55</sys_updated_on>
+        <table>task</table>
+        <ux_template display_value="My Requests (task) template">4659f48c36073010e2ffe2df1f9c0437</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

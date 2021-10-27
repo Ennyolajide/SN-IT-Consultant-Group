@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Annoucement">f8ceda4807cb3010a260f2508c1ed0e3</applet_launcher>
+        <icon display_value="icon-Bookmark">050b7d40c7231010fc3a2aa9b8c260ff</icon>
+        <label>Annoucement</label>
+        <roles/>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-02 14:17:17</sys_created_on>
+        <sys_id>c33f968807cb3010a260f2508c1ed028</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Annoucement</sys_name>
+        <sys_package display_value="IT Consultant Group" source="x_672038_it_cons_0">764fa0c407073010a260f2508c1ed0f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Consultant Group">764fa0c407073010a260f2508c1ed0f0</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_c33f968807cb3010a260f2508c1ed028</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-02 14:17:17</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

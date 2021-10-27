@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="4259f48cf30730109937517f83569441" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_672038_it_cons_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2021-10-02 06:50:56</sys_created_on>
+            <sys_id>c259f48c3b0730109e4ce66612eeea41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="8259f48c78073010cb934bcdcf86fa41">4259f48cf30730109937517f83569441</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2021-10-02 06:50:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2021-10-02 06:50:56</sys_created_on>
+            <sys_id>0659f48c700730100c626f0f33991e41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="8259f48c78073010cb934bcdcf86fa41">4259f48cf30730109937517f83569441</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2021-10-02 06:50:56</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2021-10-02 06:50:56</sys_created_on>
+            <sys_id>4659f48c4007301006bd121b72283341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="8259f48c78073010cb934bcdcf86fa41">4259f48cf30730109937517f83569441</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2021-10-02 06:50:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2021-10-02 06:50:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4259f48cf30730109937517f83569441</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Consultant Group" source="x_672038_it_cons_0">764fa0c407073010a260f2508c1ed0f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Consultant Group">764fa0c407073010a260f2508c1ed0f0</sys_scope>
+            <sys_update_name>sys_ui_section_4259f48cf30730109937517f83569441</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2021-10-02 06:50:56</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal settings (x_672038_it_cons_0 )" name="custom_portal_settings_x_672038_it_cons_0">8259f48c78073010cb934bcdcf86fa41</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
